@@ -2,10 +2,6 @@
 
 Text Utilities is a React-based web application that offers various text manipulation and analysis services. This project is designed to help users transform, analyze, and interact with text in multiple ways.
 
-## Live Demo
-
-This project is hosted on GitHub Pages. You can view the live demo here: [Text Utilities Live Demo](https://iamdevtrivedi.github.io/Text-Utility/)
-
 ## Features
 
 Our application provides the following services:
@@ -58,7 +54,6 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 ## Contact
 
