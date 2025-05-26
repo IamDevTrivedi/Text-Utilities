@@ -1,0 +1,30 @@
+--to upper
+--to lower
+--copy 
+--clear
+--to Sentence
+--to Title
+--to inverse 
+--speak
+
+--count character without space 
+--count character with space
+
+--count words
+--count unique words 
+
+--Sentence 
+--longest Sentence
+--shortest Sentence
+--Sentence avg - characters 
+--Sentence avg - words
+
+--word avg - character
+
+--no of lines 
+
+--reading time 
+--speaking time
+--writing time 
+
+top words frenqueny
