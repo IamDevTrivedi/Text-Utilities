@@ -1,6 +1,5 @@
 {
   "name": "text-tools",
-  "homepage": "https://IamDevTrivedi.github.io/Text-Utility",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
