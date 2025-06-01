@@ -256,7 +256,7 @@ export default function Workspace({ darkMode, toggleDarkMode }) {
             <div className={`${darkMode ? 'bg-gray-900 text-gray-300' : 'bg-gray-100 text-gray-800'} px-4 md:px-8 py-3 md:py-5 min-h-screen w-full flex flex-col md:flex-row transition-colors duration-200`}>
                 <div className='w-full px-2 py-1 md:w-3/4'>
 
-                    <div className={`${darkMode ? 'text-white' : 'text-gray-800'} text-3xl mb-3 font-bold`}>Text Utility Workspace</div>
+                    <div className={`${darkMode ? 'text-white' : 'text-gray-800'} text-3xl mb-3 font-bold`}>Text Utilities Workspace</div>
 
                     <div className=''>
                         <textarea

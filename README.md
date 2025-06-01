@@ -13,6 +13,10 @@ Our application provides the following services:
 5. **Text Cleaning**: Automatically remove unwanted characters and format text.
 6. **Copy & Clear Text**: Easily copy transformed text to clipboard or clear it to start fresh.
 
+## Demo 
+
+Check out the live demo here: [Text Utilities Demo](https://text-utilities-demo.vercel.app/)
+
 ## Technology Stack
 
 - React.js
@@ -24,7 +28,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
    ```
-   git clone https://github.com/IamDevTrivedi/Text-Utility.git
+   git clone https://github.com/IamDevTrivedi/Text-Utilities.git
    ```
 2. Install NPM packages
    ```
@@ -45,18 +49,8 @@ Alternatively, you can use the live version hosted on GitHub Pages (link provide
 
 The application supports both light and dark modes. The theme can be toggled to suit user preferences.
 
-## Contributing
+## Contact 
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Contact
-
-Dev Trivedi - [GitHub Profile](https://github.com/IamDevTrivedi)
-
-Project Link: [https://github.com/IamDevTrivedi/Text-Utility](https://github.com/IamDevTrivedi/Text-Utility)
+- **Created by**: [@IamDevTrivedi](https://github.com/IamDevTrivedi)
+- **LinkedIn**: [Dev Trivedi](https://www.linkedin.com/in/contact-devtrivedi/)
+- **GitHub**: [@IamDevTrivedi](https://github.com/IamDevTrivedi)
